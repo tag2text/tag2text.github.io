@@ -1,1 +1,3 @@
-# tag2text.github.io
+# OVSegmentor
+
+https://jazzcharles.github.io/OVSegmentor/
